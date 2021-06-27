@@ -9,6 +9,9 @@ If you would like to apply this to your copy, take note that I used version `2.2
 For macOS the files are located in  
 `~/Library/Application Support/Steam/SteamApps/common/SlayTheSpire/SlayTheSpire.app/Contents/Resources/preferences`
 
+For Windows the files are in  
+`\Steam\steamapps\common\SlayTheSpire\preferences` (I believe)
+
 But you can easily get to them if you do:  
 **In Steam:** Library > *Right click on* Slay the Spire > Preferences > Local files > Browse Local Files …
 
