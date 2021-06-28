@@ -2,7 +2,9 @@
 
 I have played some [Slay the Spire](https://store.steampowered.com/app/646570/Slay_the_Spire/) on iPad, but when I recently got it on Steam, naturally it did not have my progress there. I went looking for a way to modify the save files manually. As they are in `JSON` format, it's pretty straightforward, thank god. I did not find a complete or even good resource for them online though, so this is my attempt to assemble the preference files to unlock everything.
 
-In their current state, the save files unlock *a lot*, but not everything, since I had to guess many of the card names/keys. If somebody wants to contribute, I'm happy to accept! A few cards of the card collection are missing, as well as a decent chunk of seen relics.
+In their current state, the save files unlock *a lot*, but not everything, since I had to guess many of the card names/keys.  
+~~If somebody wants to contribute, I'm happy to accept! A few cards of the card collection are missing, as well as a decent chunk of seen relics.~~  
+(Update: Reddit user [neon-kitten](https://www.reddit.com/user/neon-kitten/) provided me with the files for seen cards and relics! Thanks!)
 
 If you would like to apply this to your copy, take note that I used version `2.2` of the game.
 
